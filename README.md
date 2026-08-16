@@ -1,4 +1,3 @@
-README_ZH_CN.md
 📦 版本信息
 游戏版本：1.20.1
 加载器：Forge
