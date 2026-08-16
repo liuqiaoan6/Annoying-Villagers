@@ -1,6 +1,3 @@
-# 烦人的村民
-[English](./README_EN.md)
-
 📦 版本信息
 游戏版本：1.20.1
 加载器：Forge
